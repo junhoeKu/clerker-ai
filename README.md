@@ -1,5 +1,5 @@
 # 📝 AI 모델을 활용한 회의 지원 솔루션 서비스 (Clerker - AI Team)
-<img src="Picture Polder/Clerker_image.png" alt="Clerker" width="900"/>
+<img src="Picture Folder/Clerker_image.png" alt="Clerker" width="900"/>
 
 ## 🏅나의 역할
 - STT 로직 설계
@@ -39,7 +39,7 @@
 
 ## 🎯 주요 성과  
 - 요약 다이어그램 (프로젝트 로직)
-<img src="Picture Polder/Diagram_example.png" alt="Clerker" width="900"/>
+<img src="Picture Folder/Diagram_example.png" alt="Clerker" width="900"/>
 
 
 ## 🚀 향후 계획  
