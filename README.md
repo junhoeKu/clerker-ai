@@ -9,7 +9,7 @@
   - **STT 성능도 API가 Fine Tuning보다 안정적이고 준수하며 메모리측면에서도 이득이기에 API를 활용하기로 결정**
   - Google STT, ReturnZero STT, Naver Clova 등 다양한 API를 실험해본 결과, 가격과 성능 그리고 무엇보다 키워드 부스팅 (도메인 특화 가능) 성능이 뛰어난 **Naver Clova API**로 결정.
 
-- 요약 모델 및 최종 보고서 설계
+- **요약 모델 및 최종 보고서 설계**
   - 오픈소스 한국어 LLM인 [Bllossom](https://huggingface.co/MLP-KTLim/llama-3-Korean-Bllossom-8B)을 활용
 
 ## 🔍 프로젝트 소개  
