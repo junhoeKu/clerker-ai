@@ -2,7 +2,7 @@
 <img src="Picture Folder/Clerker_image.png" alt="Clerker" width="900"/>
 
 ## 🏅나의 역할
-- STT 로직 설계
+- **STT 로직 설계**
   - 한국어 텍스트 - **음성 데이터셋 수집, 전처리를 통해 새로운 데이터셋 제작** ([Dataset](https://huggingface.co/datasets/Junhoee/STT_Korean_Dataset))
   - 이후 **Whisper 모델로 Fine Tuning 진행**
   - Whisper는 화자분리 기능을 지원하지 않아 로직을 따로 설계해야 하며 도메인별 특화 데이터셋으로 각각 모두 학습시켜야 하는데 이 부분에서 데이터셋 제작에 한계를 느낌
