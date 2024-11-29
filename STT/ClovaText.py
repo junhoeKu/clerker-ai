@@ -1,6 +1,6 @@
 ## ClovaText.py
 ## main 함수 실행 파일
-
+ 
 import json
 import os
 from pydub import AudioSegment
@@ -57,4 +57,4 @@ def make_stt_txt(input_domain,input_audio_file,output_txt_file):
             speaker_segments.append(f"{speaker_label}: {filtered_text}")
 
     with open(output_txt_file, 'w', encoding='utf-8') as txt_file:
-        txt_file.write("\n".join(speaker_segments))
+        txt_file.write("\n".join(speaker_segments)) 
